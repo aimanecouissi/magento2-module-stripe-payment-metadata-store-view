@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="StripeIntegration\Payments\Model\Config">
+        <plugin name="aimanecouissi_stripe_payment_metadata_store_view_stripe_integration_payments_model_config_plugin"
+                type="AimaneCouissi\StripePaymentMetadataStoreView\Plugin\StripeIntegration\Payments\Model\ConfigPlugin"/>
+    </type>
+</config>
