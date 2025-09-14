@@ -4,7 +4,6 @@ During checkout, when the Stripe PaymentIntent is created or updated, the module
 
 ## Requirements
 - PHP 8.3–8.4  
-- Magento Framework `103.0.*` (Magento 2.4.x)  
 - `stripe/module-payments` `4.4.*`
 
 ## Installation
