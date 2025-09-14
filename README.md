@@ -1,5 +1,7 @@
 # AimaneCouissi_StripePaymentMetadataStoreView
 
+[![Latest Stable Version](http://poser.pugx.org/aimanecouissi/module-stripe-payment-metadata-store-view/v)](https://packagist.org/packages/aimanecouissi/module-stripe-payment-metadata-store-view) [![Total Downloads](http://poser.pugx.org/aimanecouissi/module-stripe-payment-metadata-store-view/downloads)](https://packagist.org/packages/aimanecouissi/module-stripe-payment-metadata-store-view) [![Latest Unstable Version](http://poser.pugx.org/aimanecouissi/module-stripe-payment-metadata-store-view/v/unstable)](https://packagist.org/packages/aimanecouissi/module-stripe-payment-metadata-store-view) [![License](http://poser.pugx.org/aimanecouissi/module-stripe-payment-metadata-store-view/license)](https://packagist.org/packages/aimanecouissi/module-stripe-payment-metadata-store-view) [![PHP Version Require](http://poser.pugx.org/aimanecouissi/module-stripe-payment-metadata-store-view/require/php)](https://packagist.org/packages/aimanecouissi/module-stripe-payment-metadata-store-view)
+
 During checkout, when the Stripe PaymentIntent is created or updated, the module adds a `Store View` entry to the PaymentIntent metadata.
 
 ## Installation
