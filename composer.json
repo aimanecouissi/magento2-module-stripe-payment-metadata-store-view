@@ -1,7 +1,7 @@
 {
     "name": "aimanecouissi/module-stripe-payment-metadata-store-view",
     "version": "1.0.0",
-    "description": "Add Store View name to Stripe payment intent metadata",
+    "description": "Add Store View name to Stripe PaymentIntent metadata",
     "type": "magento2-module",
     "require": {
         "php": "~8.3.0||~8.4.0",
