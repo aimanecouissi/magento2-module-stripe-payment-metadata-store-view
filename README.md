@@ -2,10 +2,6 @@
 
 During checkout, when the Stripe PaymentIntent is created or updated, the module adds a `Store View` entry to the PaymentIntent metadata.
 
-## Requirements
-- PHP 8.3–8.4  
-- `stripe/module-payments` `4.4.*`
-
 ## Installation
 ```bash
 composer require aimanecouissi/module-stripe-payment-metadata-store-view
